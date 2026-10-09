@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    int num;
+    scanf("%d", &num);
+    printf("%d\n", num > 50);
+    return 0;
+}
